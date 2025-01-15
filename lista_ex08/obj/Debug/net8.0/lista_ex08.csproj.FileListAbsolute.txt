@@ -1,0 +1,15 @@
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\bin\Debug\net8.0\lista_ex08.exe
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\bin\Debug\net8.0\lista_ex08.deps.json
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\bin\Debug\net8.0\lista_ex08.runtimeconfig.json
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\bin\Debug\net8.0\lista_ex08.dll
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\bin\Debug\net8.0\lista_ex08.pdb
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\obj\Debug\net8.0\lista_ex08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\obj\Debug\net8.0\lista_ex08.AssemblyInfoInputs.cache
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\obj\Debug\net8.0\lista_ex08.AssemblyInfo.cs
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\obj\Debug\net8.0\lista_ex08.csproj.CoreCompileInputs.cache
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\obj\Debug\net8.0\lista_ex08.sourcelink.json
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\obj\Debug\net8.0\lista_ex08.dll
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\obj\Debug\net8.0\refint\lista_ex08.dll
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\obj\Debug\net8.0\lista_ex08.pdb
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\obj\Debug\net8.0\lista_ex08.genruntimeconfig.cache
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\lista_ex08\obj\Debug\net8.0\ref\lista_ex08.dll
