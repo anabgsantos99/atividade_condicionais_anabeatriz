@@ -1,0 +1,15 @@
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\bin\Debug\net8.0\ex30.exe
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\bin\Debug\net8.0\ex30.deps.json
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\bin\Debug\net8.0\ex30.runtimeconfig.json
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\bin\Debug\net8.0\ex30.dll
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\bin\Debug\net8.0\ex30.pdb
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\obj\Debug\net8.0\ex30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\obj\Debug\net8.0\ex30.AssemblyInfoInputs.cache
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\obj\Debug\net8.0\ex30.AssemblyInfo.cs
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\obj\Debug\net8.0\ex30.csproj.CoreCompileInputs.cache
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\obj\Debug\net8.0\ex30.sourcelink.json
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\obj\Debug\net8.0\ex30.dll
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\obj\Debug\net8.0\refint\ex30.dll
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\obj\Debug\net8.0\ex30.pdb
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\obj\Debug\net8.0\ex30.genruntimeconfig.cache
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex30\obj\Debug\net8.0\ref\ex30.dll

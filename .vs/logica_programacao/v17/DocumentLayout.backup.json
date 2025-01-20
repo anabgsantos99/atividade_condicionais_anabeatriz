@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FBD0169-2456-417A-A53B-4C0EBEE07C6B}|lista_ex10\\lista_ex10.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FBD0169-2456-417A-A53B-4C0EBEE07C6B}|lista_ex10\\lista_ex10.csproj|solutionrelative:lista_ex10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99D86565-C0E9-4420-9B97-3020D248BA04}|ex31\\ex31.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D86565-C0E9-4420-9B97-3020D248BA04}|ex31\\ex31.csproj|solutionrelative:ex31\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B52BD76-DB26-4C01-B54B-1B0D2C6376F6}|lista_ex03\\lista_ex03.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B52BD76-DB26-4C01-B54B-1B0D2C6376F6}|lista_ex03\\lista_ex03.csproj|solutionrelative:lista_ex03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A010F675-EA18-40C6-8CC7-4B42F610AF72}|ex30\\ex30.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010F675-EA18-40C6-8CC7-4B42F610AF72}|ex30\\ex30.csproj|solutionrelative:ex30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A140E1ED-6B76-421E-AC33-6D6E1F256CA2}|lista_ex02\\lista_ex02.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A140E1ED-6B76-421E-AC33-6D6E1F256CA2}|lista_ex02\\lista_ex02.csproj|solutionrelative:lista_ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EBC31B07-FFDB-459C-98CE-577DE8D02FEC}|ex29\\ex29.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBC31B07-FFDB-459C-98CE-577DE8D02FEC}|ex29\\ex29.csproj|solutionrelative:ex29\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE562E98-510F-4C3D-99D0-E915A0D2BCA0}|lista_ex06\\lista_ex06.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE562E98-510F-4C3D-99D0-E915A0D2BCA0}|lista_ex06\\lista_ex06.csproj|solutionrelative:lista_ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35797FBF-8753-4057-892D-BAEF88F9633C}|ex28\\ex28.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35797FBF-8753-4057-892D-BAEF88F9633C}|ex28\\ex28.csproj|solutionrelative:ex28\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7B8F3AC-178B-4DA6-A9D7-A8415468EC11}|lista_ex05\\lista_ex05.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7B8F3AC-178B-4DA6-A9D7-A8415468EC11}|lista_ex05\\lista_ex05.csproj|solutionrelative:lista_ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AB18380A-C005-4C1F-A6CB-B0AE1BCFE7A4}|ex01_repeticao\\ex01_repeticao.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex01_repeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB18380A-C005-4C1F-A6CB-B0AE1BCFE7A4}|ex01_repeticao\\ex01_repeticao.csproj|solutionrelative:ex01_repeticao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D206FD69-FC7D-49B1-8DBD-6A7005B12738}|lista_ex09\\lista_ex09.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D206FD69-FC7D-49B1-8DBD-6A7005B12738}|lista_ex09\\lista_ex09.csproj|solutionrelative:lista_ex09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E62EA12-0802-472D-B242-11368DCBAFF6}|ex26\\ex26.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E62EA12-0802-472D-B242-11368DCBAFF6}|ex26\\ex26.csproj|solutionrelative:ex26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{918D8DE6-EA93-480B-B3D4-3DDA86D958EB}|lista_ex08\\lista_ex08.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{918D8DE6-EA93-480B-B3D4-3DDA86D958EB}|lista_ex08\\lista_ex08.csproj|solutionrelative:lista_ex08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C72FAE4-69C8-4E40-B6C8-C8B552B65933}|lista_ex07\\lista_ex07.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C72FAE4-69C8-4E40-B6C8-C8B552B65933}|lista_ex07\\lista_ex07.csproj|solutionrelative:lista_ex07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED85228B-0753-44A2-9A3C-56DF389B68E8}|ex27\\ex27.csproj|c:\\users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED85228B-0753-44A2-9A3C-56DF389B68E8}|ex27\\ex27.csproj|solutionrelative:ex27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,111 +38,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex31\\Program.cs",
+              "RelativeDocumentMoniker": "ex31\\Program.cs",
+              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex31\\Program.cs*",
+              "RelativeToolTip": "ex31\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:09:09.046Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex03\\Program.cs",
-              "RelativeDocumentMoniker": "lista_ex03\\Program.cs",
-              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex03\\Program.cs",
-              "RelativeToolTip": "lista_ex03\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex30\\Program.cs",
+              "RelativeDocumentMoniker": "ex30\\Program.cs",
+              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex30\\Program.cs",
+              "RelativeToolTip": "ex30\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:24:15.606Z",
+              "WhenOpened": "2025-01-20T20:06:28.368Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex02\\Program.cs",
-              "RelativeDocumentMoniker": "lista_ex02\\Program.cs",
-              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex02\\Program.cs",
-              "RelativeToolTip": "lista_ex02\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex29\\Program.cs",
+              "RelativeDocumentMoniker": "ex29\\Program.cs",
+              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex29\\Program.cs",
+              "RelativeToolTip": "ex29\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:24:13.351Z",
+              "WhenOpened": "2025-01-20T20:00:14.168Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex06\\Program.cs",
-              "RelativeDocumentMoniker": "lista_ex06\\Program.cs",
-              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex06\\Program.cs",
-              "RelativeToolTip": "lista_ex06\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex28\\Program.cs",
+              "RelativeDocumentMoniker": "ex28\\Program.cs",
+              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex28\\Program.cs",
+              "RelativeToolTip": "ex28\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T18:46:13.798Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex10\\Program.cs",
-              "RelativeDocumentMoniker": "lista_ex10\\Program.cs",
-              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex10\\Program.cs*",
-              "RelativeToolTip": "lista_ex10\\Program.cs*",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T18:45:23.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T19:53:04.632Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex05\\Program.cs",
-              "RelativeDocumentMoniker": "lista_ex05\\Program.cs",
-              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex05\\Program.cs",
-              "RelativeToolTip": "lista_ex05\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex01_repeticao\\Program.cs",
+              "RelativeDocumentMoniker": "ex01_repeticao\\Program.cs",
+              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex01_repeticao\\Program.cs",
+              "RelativeToolTip": "ex01_repeticao\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T19:24:03.267Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex09\\Program.cs",
-              "RelativeDocumentMoniker": "lista_ex09\\Program.cs",
-              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex09\\Program.cs",
-              "RelativeToolTip": "lista_ex09\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T18:45:28.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T19:10:50.592Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex08\\Program.cs",
-              "RelativeDocumentMoniker": "lista_ex08\\Program.cs",
-              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex08\\Program.cs",
-              "RelativeToolTip": "lista_ex08\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex27\\Program.cs",
+              "RelativeDocumentMoniker": "ex27\\Program.cs",
+              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex27\\Program.cs",
+              "RelativeToolTip": "ex27\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T18:39:41.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T18:32:36.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex07\\Program.cs",
-              "RelativeDocumentMoniker": "lista_ex07\\Program.cs",
-              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\lista_ex07\\Program.cs",
-              "RelativeToolTip": "lista_ex07\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex26\\Program.cs",
+              "RelativeDocumentMoniker": "ex26\\Program.cs",
+              "ToolTip": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex26\\Program.cs",
+              "RelativeToolTip": "ex26\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T18:38:09.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-20T18:28:33.72Z"
             }
           ]
         }

@@ -1,0 +1,15 @@
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\obj\Debug\net8.0\ex01_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\obj\Debug\net8.0\ex01_repeticao.AssemblyInfoInputs.cache
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\obj\Debug\net8.0\ex01_repeticao.AssemblyInfo.cs
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\obj\Debug\net8.0\ex01_repeticao.csproj.CoreCompileInputs.cache
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\obj\Debug\net8.0\ex01_repeticao.sourcelink.json
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\bin\Debug\net8.0\ex01_repeticao.exe
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\bin\Debug\net8.0\ex01_repeticao.deps.json
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\bin\Debug\net8.0\ex01_repeticao.runtimeconfig.json
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\bin\Debug\net8.0\ex01_repeticao.dll
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\bin\Debug\net8.0\ex01_repeticao.pdb
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\obj\Debug\net8.0\ex01_repeticao.dll
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\obj\Debug\net8.0\refint\ex01_repeticao.dll
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\obj\Debug\net8.0\ex01_repeticao.pdb
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\obj\Debug\net8.0\ex01_repeticao.genruntimeconfig.cache
+C:\Users\ana.bgsantos10\source\repos\logica_trans_seg_qua_tarde-main\ex01_repeticao\obj\Debug\net8.0\ref\ex01_repeticao.dll

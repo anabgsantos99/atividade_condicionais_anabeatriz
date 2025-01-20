@@ -1,0 +1,1 @@
+﻿Foi encontrado um erro ao abrir documentos associados na última vez em que esta solução foi carregada. O carregamento de documentos foi ignorado durante o carregamento da solução a fim de evitar o erro.

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "ex02/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ex02.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ex02.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ex02/1.0.0": {
+      "type": "project",
+      "path": "../ex02/ex02.csproj",
+      "msbuildProject": "../ex02/ex02.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "ex02 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ana.bgsantos10\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex02\\ex02.csproj": {
+              "projectPath": "C:\\Users\\ana.bgsantos10\\source\\repos\\logica_trans_seg_qua_tarde-main\\ex02\\ex02.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
